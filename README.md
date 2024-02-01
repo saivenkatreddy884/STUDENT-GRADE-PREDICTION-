@@ -12,5 +12,5 @@ Compared the results to recommend the best Regression model
 Collab link : https://colab.research.google.com/drive/1_POBoyvQGJD6dyWFmjxWxsZbXhgfWFpO?usp=sharing 
 
 
-PPT link : 
+PPT link : https://docs.google.com/presentation/d/1cITP20GhHvuNlKCELmg1Cs9hI0XAlDhZ/edit?usp=sharing&ouid=106702906048169590831&rtpof=true&sd=true
 
